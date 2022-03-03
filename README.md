@@ -1,18 +1,29 @@
 # Análise do Conjunto de Dados do ENEM Edições 2017, 2018 e 2019
-**Feito por Lucas Lopes - 02/03/2022**
+**Feito por Lucas Lopes - 02/03/2022** <br>
 ___
 
 <img src="https://imagens.ebc.com.br/6BdfhgUhqiILyXdv34gQTB6_zts=/1100x370/smart/https://memoria.ebc.com.br/sites/_portalebc2014/files/atoms_image/logo_enem.jpg" alt="Drawing" style="width: 80%;"/><br>
 ## Descrição do Problema
 O Exame Nacional do Ensino Médio (Enem) foi instituído em 1998, com o objetivo de avaliar o desempenho escolar dos estudantes ao término da educação básica. Em 2009, o exame aperfeiçoou sua metodologia e passou a ser utilizado como mecanismo de acesso à educação superior.
-Esta análise tem por objetivo fornecer insigths sobre os os microdados do enem bem como sobre os participantes e os estados brasileiros.<br>
+Esta análise tem por objetivo fornecer insigths sobre os os microdados do enem bem como sobre os participantes e os estados brasileiros. Esta análise será feita utilizando as linguages Python e SQL.<br>
 ___
 
-### Dados Utilizados na Análise: <br>
+### Dados Utilizados na Análise  <img src="https://user-images.githubusercontent.com/92451100/156657151-423680ca-1ada-464d-9a82-6856e8d91b7a.svg" style="width:20px;padding-left:20px;"/><br>
 
-<div style="float:left;height:500px;">
-<div style="float:left;width:300px;height:400px;padding-left:20px;padding-right:50px;border-right:solid #C0C0C0 1px"><a src='https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar'>Microdados do ENEM</a> edições 2017, 2018 e 2019 e dados do Censo Escolar disponibilizados pelo INEP.<img src='https://www.gov.br/inep/pt-br/assuntos/noticias/imagens/6842215.png' style="width:350px;height:350px;">
-</div>    
-<div style="float:right;width:300px;height:400px;padding-left:50px;">Dados de coordenadas das estruturas geográficas do Brasil disponibilizadas na plataforma <a src='https://www.kaggle.com/thiagobodruk/brazil-geojson/version/1'> GeoJS<a/>.<img src='https://pbs.twimg.com/profile_images/1126734111/geojsonicon_400x400.png' style="width:250px;height:250px;padding-top:100px;">
+Os dados utilizados nesta análise ocupam mais de 13 GB de espaço em memória, portanto não é possível disponibilizá-los pelo GitHub.<br>
+Vocé precisará acessar os links abaixo para baixar os arquivos.<br>
+
+<div style="float:left">
+<div style="float:left;width:400px;height:400px;padding-left:20px;padding-right:50px;border-right:solid #C0C0C0 1px"><a src='https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar'>Microdados do ENEM</a> edições 2017, 2018 e 2019 e dados do Censo Escolar disponibilizados pelo INEP.<br><br><img src='https://upload.wikimedia.org/wikipedia/commons/8/83/INEP_logo_01.png'>
+</div><br><br>    
+<div style="float:right;width:400px;height:400px;padding-left:50px;">Dados de coordenadas das estruturas geográficas do Brasil disponibilizadas na plataforma <a src='https://www.kaggle.com/thiagobodruk/brazil-geojson/version/1'> GeoJS<a/>.<br><img src='https://camo.githubusercontent.com/eb82845351f8d87d73a714772840aaae40e3c881fccb75292d78b9585904dfb5/68747470733a2f2f6f70656e67656f736369656e63652e6769746875622e696f2f67656f6a732f696d616765732f6c6f676f5f3235362e706e67' style="width:450px;height:200px;padding-top:10px;">
 </div>
 </div>
+   
+  ### Tecnologias Utilizadas <br>
+  ___
+  * <img src="https://user-images.githubusercontent.com/92451100/156658134-ad7b7963-79f2-4960-b4ae-47e68c15b60a.svg" style="width:2%;padding-left:10px;padding-bottom:0px"/> Linguagem Python versão 3.9.10 
+
+  * <img src="https://user-images.githubusercontent.com/92451100/156657151-423680ca-1ada-464d-9a82-6856e8d91b7a.svg" style="width:2%;padding-left:10px;padding-bottom:0px"/> SQL (querys simples com join entre tabelas)
+
+
