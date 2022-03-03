@@ -2,10 +2,10 @@
 **Feito por Lucas Lopes - 02/03/2022**
 ___
 
-<img src="https://imagens.ebc.com.br/6BdfhgUhqiILyXdv34gQTB6_zts=/1100x370/smart/https://memoria.ebc.com.br/sites/_portalebc2014/files/atoms_image/logo_enem.jpg" alt="Drawing" style="width: 80%;"/>
+<img src="https://imagens.ebc.com.br/6BdfhgUhqiILyXdv34gQTB6_zts=/1100x370/smart/https://memoria.ebc.com.br/sites/_portalebc2014/files/atoms_image/logo_enem.jpg" alt="Drawing" style="width: 80%;"/><br>
 ## Descrição do Problema
 O Exame Nacional do Ensino Médio (Enem) foi instituído em 1998, com o objetivo de avaliar o desempenho escolar dos estudantes ao término da educação básica. Em 2009, o exame aperfeiçoou sua metodologia e passou a ser utilizado como mecanismo de acesso à educação superior.
-Esta análise tem por objetivo fornecer insigths sobre os os microdados do enem bem como sobre os participantes e os estados brasileiros.
+Esta análise tem por objetivo fornecer insigths sobre os os microdados do enem bem como sobre os participantes e os estados brasileiros.<br>
 ___
 
 ### Dados Utilizados na Análise: <br>
