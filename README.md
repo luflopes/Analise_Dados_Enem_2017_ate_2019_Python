@@ -10,7 +10,7 @@ ___
 
 ### Dados Utilizados na Análise: <br>
 
-<div style="float:left">
+<div style="float:left;height:500px;">
 <div style="float:left;width:300px;height:400px;padding-left:20px;padding-right:50px;border-right:solid #C0C0C0 1px"><a src='https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar'>Microdados do ENEM</a> edições 2017, 2018 e 2019 e dados do Censo Escolar disponibilizados pelo INEP.<img src='https://www.gov.br/inep/pt-br/assuntos/noticias/imagens/6842215.png' style="width:350px;height:350px;">
 </div>    
 <div style="float:right;width:300px;height:400px;padding-left:50px;">Dados de coordenadas das estruturas geográficas do Brasil disponibilizadas na plataforma <a src='https://www.kaggle.com/thiagobodruk/brazil-geojson/version/1'> GeoJS<a/>.<img src='https://pbs.twimg.com/profile_images/1126734111/geojsonicon_400x400.png' style="width:250px;height:250px;padding-top:100px;">
