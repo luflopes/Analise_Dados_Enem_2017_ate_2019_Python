@@ -1,1 +1,17 @@
-ee
+## Links para acesso aos dados:
+
+**Microdados do ENEM:**
+
+https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
+
+**Dados de Geometria (geojson Brasil):**
+
+https://www.kaggle.com/thiagobodruk/brazil-geojson/version/1
+
+**Arquivos shapefile com geomeometrias dos estados do Brasil:**
+
+ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2017/Brasil/BR
+
+** Dados do Censo Escolar obtidos do INEP:**
+
+https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar
